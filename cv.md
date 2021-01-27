@@ -25,6 +25,6 @@
 * CyberBionic Systematics Front-end course - *2020.02 - 2020.06*
 * Harvard's CS50 course - *2019.02 - 2019.04*
 #### Degree
-Bachelor's Degree in Engineering (Ukrainian Engineering-Pedagogical Academy, Welding Technolgy and Equipment)
+Bachelor's Degree in Engineering (*Ukrainian Engineering-Pedagogical Academy*, Welding Technolgy and Equipment)
 #### English
 **B2 level** according to EPAM testing service
