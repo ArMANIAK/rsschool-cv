@@ -1,1 +1,1 @@
-https://armaniak.github.io/rsschool-cv/cv
+https://armaniak.github.io/rsschool-cv/
